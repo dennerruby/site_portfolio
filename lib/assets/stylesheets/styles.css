@@ -10092,28 +10092,44 @@ header.masthead h1 {
   flex-direction: column;
   width: 100%;
   height: 100%;
+  
   position: absolute;
   bottom: 0;
   text-align: center;
   opacity: 0;
   color: #fff;
+  
   background: rgba(244, 98, 58, 0.9);
   transition: opacity 0.25s ease;
+  
+  
   text-align: center;
 }
+
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-category {
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.85rem;
   font-weight: 600;
   text-transform: uppercase;
 }
+
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-name {
   font-size: 1.2rem;
 }
+
+
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
-
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
+}
+#btn-oculto{
+  cursor: pointer;
+}
+#btn-oculto-2{
+  cursor: pointer;
+}
+#btn-oculto-3{
+  cursor: pointer;
 }

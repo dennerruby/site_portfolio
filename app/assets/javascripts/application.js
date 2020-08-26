@@ -14,7 +14,8 @@
 //= require activestorage
 //= require turbolinks
 //= require jquery/dist/jquery
-//= require bootstrap/dist/js/bootstrap
+//= require tether/dist/js/tether
+//= require bootstrap/dist/js/bootstrap.bundle
 //= require jquery.easing/jquery.easing
 //= require magnific-popup/dist/jquery.magnific-popup
 //= require scripts
